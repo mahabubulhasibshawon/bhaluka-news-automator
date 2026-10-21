@@ -1,5 +1,12 @@
 {
   "pages": {
+    "acland.bhaluka.9": {
+      "initialized": true,
+      "last_checked": null,
+      "seen": [
+        "1111999931289214"
+      ]
+    },
     "bbcnews": {
       "initialized": true,
       "last_checked": null,
@@ -13,6 +20,20 @@
         "pfbid02GcE2nkXmfdu4fisivLAnFr7qnB848kS4QH3P7D6ehioeQcwHEGt5ANowbD8KSSvPl",
         "1658411369051616",
         "pfbid02wiQkFxczyZfXuDDsrhAfRWVeq7n5Eznq4bRqoaAaD4BwgrGagyEMtGu2cxv1FTLUl"
+      ]
+    },
+    "beautifulbhaluka2": {
+      "initialized": true,
+      "last_checked": null,
+      "seen": [
+        "pfbid0243Mfx9RujDqvKWd8AC24xh7U2msZCNRh1Mfhzj4j9NYoZTVvMMsaAWoYgX7puVxWl"
+      ]
+    },
+    "bhalukarkhobor": {
+      "initialized": true,
+      "last_checked": null,
+      "seen": [
+        "1517197620248895"
       ]
     },
     "cnn": {
@@ -52,7 +73,8 @@
         "pfbid024f4vhBb7U22Pkoz3FCd7LxBLVZmJGc7mTQr9BTbbFh9Qah7o3ASchkjb3tBLwEZZl",
         "pfbid02k4j7QpSHKAPoaDiSk7kqaYsMEnbTfWgkLnNC394YGje3Pb5rsDofPcpUAM4J3h43l",
         "pfbid022hi4n3p9f6M7ccCztBbFdnzNgQmRzNu3QUyptknCyeBTUzvGVSYFKj1SbMMqy7z7l",
-        "pfbid0nAw9g4XMRyv5DwHzf5DQy59fPjEUpC3ZRDCt9F64HJFU3v4JBP3QHm5RyYhLhddsl"
+        "pfbid0nAw9g4XMRyv5DwHzf5DQy59fPjEUpC3ZRDCt9F64HJFU3v4JBP3QHm5RyYhLhddsl",
+        "1097615789748711"
       ]
     }
   },
