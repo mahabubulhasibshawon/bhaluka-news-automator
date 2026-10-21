@@ -1,1 +1,26 @@
-{"version": 1, "pages": {}}
+{
+  "pages": {
+    "bbcnews": {
+      "initialized": true,
+      "last_checked": null,
+      "seen": [
+        "pfbid022zxsG54YLio4HxwRskSyjrk5SkqNZCV54hNMMxcXDPo3yBRCQrT3HSFWCs641y2Zl"
+      ]
+    },
+    "cnn": {
+      "initialized": true,
+      "last_checked": null,
+      "seen": [
+        "1129094942918530"
+      ]
+    },
+    "dailyprothomalo": {
+      "initialized": true,
+      "last_checked": null,
+      "seen": [
+        "2102577357013971"
+      ]
+    }
+  },
+  "version": 1
+}
