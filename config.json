@@ -1,7 +1,8 @@
 {
   "pages": [
     { "url": "https://www.facebook.com/bbcnews", "name": "BBC News", "rss_url": null, "check_interval_minutes": 0 },
-    { "url": "https://www.facebook.com/cnn" }
+    { "url": "https://www.facebook.com/cnn" }, 
+    { "url": "https://www.facebook.com/DailyProthomAlo/#", "name": "Prothom Alo"}
   ],
   "strategies": ["html", "playwright", "rss"],
   "notify_on_first_run": false,
