@@ -1,10 +1,9 @@
 {
   "pages": [
-    { "url": "https://www.facebook.com/share/19rAqWqzrK/?mibextid=wwXIfr", "name": "Beautiful Bhaluka", "rss_url": null, "check_interval_minutes": 0 },
-    { "url": "https://www.facebook.com/share/1Dm7pSLXkq/?mibextid=wwXIfr" }, 
+    { "url": "https://www.facebook.com/beautifulbhaluka2", "name": "Beautiful Bhaluka", "rss_url": null, "check_interval_minutes": 0 },
+    { "url": "https://www.facebook.com/acland.bhaluka.9" }, 
     { "url": "https://www.facebook.com/DailyProthomAlo/#", "name": "Prothom Alo"}, 
-    { "url": "https://www.facebook.com/share/1N6aTah4Pa/?mibextid=wwXIfr"},
-    { "url": "https://www.facebook.com/share/1caUueZj28/?mibextid=wwXIfr"}
+    { "url": "https://www.facebook.com/BhalukarKhobor"}
   ],
   "strategies": ["html", "playwright", "rss"],
   "notify_on_first_run": false,
