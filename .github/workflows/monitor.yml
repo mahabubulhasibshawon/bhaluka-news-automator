@@ -2,9 +2,9 @@ name: Facebook Page Monitor
 
 on:
   schedule:
-    # Every 20 minutes (UTC). GitHub's minimum is 5 min and runs can be delayed
+    # Every 30 minutes (UTC). GitHub's minimum is 5 min and runs can be delayed
     # by several minutes under load. Change the number to change the interval.
-    - cron: "*/20 * * * *"
+    - cron: "*/30 * * * *"
   workflow_dispatch:
     inputs:
       test_notify:
