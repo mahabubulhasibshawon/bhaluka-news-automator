@@ -288,7 +288,6 @@
       "initialized": true,
       "last_checked": null,
       "seen": [
-        "28300638449614588",
         "pfbid0JpmTFkPmdZkV2aJRd49YY7oGJEjXfGYWMojhNhboMLzYTFZTSfSsTM8A8ok22i8Yl",
         "pfbid0sJXrgoTQv2gPar53bmVXts7a1dYZYTFUCe2wRcKwgUJ2hcVanPueCrA6GbQJoqenl",
         "pfbid0dzJpsjj2R2hwN4Q7fLLi7CrJh1pQESmZvWtFgtd5Zy2bfQbBhh6NY12vCK6ZXH3hl",
@@ -587,7 +586,8 @@
         "2228467621434166",
         "1864597414581173",
         "2639429476497349",
-        "1279839984308728"
+        "1279839984308728",
+        "1123317627073439"
       ]
     }
   },
