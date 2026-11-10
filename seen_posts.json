@@ -53,9 +53,6 @@
       "initialized": true,
       "last_checked": null,
       "seen": [
-        "pfbid0bVebLZw3myoEX7BvbNbViGkJSbBoBfyL8oyc1sg3KrKwR1Zrc2ytFsAi41EenbFl",
-        "pfbid02akFFM3tkeh6ohyycjz5EH3yp2sE5te1j6fN2MWNn9gTwyQnYTynko5sBAbtDn4Eil",
-        "pfbid0XCc4RtGPoUtsyYV6Hy7GGPopNNsAbKQWmJhhjT284qok8jdzwANqzr1xXiFJTcSel",
         "pfbid0XmFxTFHuYZY6vyrt2TvP36oAcNXg8pFCworpoe4YTbe8jdao3P9eDvVmZggPAsTSl",
         "1136436422408816",
         "pfbid0DrEXtJPCsqsMutJPrM5XtGjC5DdXmu1LZUpWJraSfvDDm4XKsuJkND6pqqajakP5l",
@@ -352,7 +349,10 @@
         "pfbid02VwE2A7Y6f7WjgFg4qZdASH66M3pErnQ8EX9M8R8bRxDKGJqbAVhLTcZcsco9qb5Kl",
         "pfbid0uEbKtPAba5ftMkoWDK2fSArV971GZ2MzoNGV1g9URbvJaojLK3FfTG6hty9GfN1Gl",
         "pfbid02dK7MzAb61PKTu8s5zyRdSTZp4PYViomrVMAwsbfUzPskHfD2Mo2M1kaqF74J3rXjl",
-        "pfbid032ySkJtb3uFHgCV3breTCjtp1WLktke347Jpfmo4L9iN8P7g6Ssxje2TJjWSeYJPHl"
+        "pfbid032ySkJtb3uFHgCV3breTCjtp1WLktke347Jpfmo4L9iN8P7g6Ssxje2TJjWSeYJPHl",
+        "pfbid02f66XQWwfJSc92XQLCqydFDMUJ9T4zPiQowP1nmBzKVJV7LoresQNe3HAiwgrLHGkl",
+        "pfbid0f5fDuhBdBGf1MNFx5KXwhzYte4L2EZrqGMQjKguzt1ia1SKijhVHU5QK9VAyYVo6l",
+        "pfbid02hh2NSbzCJfbRGyygpRKBAz7oaycWZAbP7iax28PnkcnGkB49SJ9A68TJCpH91yuWl"
       ]
     },
     "bhalukarkhobor": {
@@ -400,7 +400,6 @@
       "initialized": true,
       "last_checked": null,
       "seen": [
-        "1130709229447365",
         "1089681243934745",
         "1116527501289750",
         "pfbid0cdMMictaEtPJziAmvDjMJAb5Ufn3F6iuz8Fbn8oWuLzrEoHMjKZttJfUGTqCw9oPl",
@@ -699,7 +698,8 @@
         "1131177179282583",
         "pfbid02KMuFmAatmmzY7PChVLo3MXtKAsLYhzfQp73Gxa3ADcCKCZhCqJfWUAMRtR6gNeEAl",
         "pfbid022SKb7b2Yb2DLW5powj61fZndP6JdN6gaNppV6AUmMwCTuzKyxE9bSapZP8sKNXzil",
-        "pfbid035Kjp3pVnWNXymcRCABfo5TGBi35WZ79Td61jF5ybXhCJYxL9PTsjhvVnfu2fNVgml"
+        "pfbid035Kjp3pVnWNXymcRCABfo5TGBi35WZ79Td61jF5ybXhCJYxL9PTsjhvVnfu2fNVgml",
+        "pfbid021DmhpfU8rvhZk1JiQv3k4RU4f2grdjYCPgzUjybWKGVxoGQxgymjhL2i3Tg8okJql"
       ]
     }
   },
