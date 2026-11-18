@@ -69,10 +69,6 @@
       "initialized": true,
       "last_checked": null,
       "seen": [
-        "pfbid023Ceu1LrXusa8zSUjeZjcN3bK3xjvSWb1mA1FJtxd8kydir37RwDwbeUq6eyct4QKl",
-        "pfbid028PxvAWAjHNq11EYm8Yvw784TxxzALhGguGWVY3Rcwjk3G4DLd1JV3aynKymZUcVQl",
-        "pfbid02h7bjn4SedkWJxqioRvUjjPseFpbPUMVgVNbt7X6AwMVq4Zrggt8oD1b8vNssFWZkl",
-        "pfbid02qym4az6VZJ2zkGDx75Cwm93jBZcKPwfz93R873z2fRxbJUQfyS83tj6S7b8YdhYel",
         "pfbid0BzSwQcreyK6VYbvS4Lesr9DSpb6SoPWcNEZAxVijzYfuGeM61qbxhNHtRr4NP79al",
         "pfbid0mxAM7AtvtQRzvQ5GLzAqkrPapExbcWD5u741PxCCVT832NS4VDycy3CvrWpMe6THl",
         "pfbid0e2VjSuaRYG9mpXqvdPB53J67MgA41Vg3fqqueuzMbRFMfYdafUmM6aXABKdkWtAnl",
@@ -368,7 +364,11 @@
         "pfbid02Y7df8xsTSNmafjUphbexF5SG1mVqXCaoPm48LdZKYy5ezbrQcxpkyUhXW2wvYVnl",
         "pfbid0vfVFDo3eSVAjZdTD2RB8nUoGJnXUvoPkSf2sHMfJq9Xp2nbyU1Y2CGm7Zj6KWr1ul",
         "pfbid02rAN9TzaMGxEQdG48NhLenicFVQPcq37B67sdzuWsiLQCgcxug9aotCPeq1epsnTcl",
-        "pfbid036DWWihvAdPmF4qfZJeWBg9BrZrz59P2h4LUqtMGQ5YApJppn37Vs5Pc3ntDXVw7Rl"
+        "pfbid036DWWihvAdPmF4qfZJeWBg9BrZrz59P2h4LUqtMGQ5YApJppn37Vs5Pc3ntDXVw7Rl",
+        "pfbid0WpzkrzDYNTZ2UgxxkqyVXmd65xSPdQFRvkv8mFAErvGHpGCfjhdcYgNbvFdcyt7Ul",
+        "pfbid0smrFBTtVZ6VrLoh8G7QTGNAopjN97x2UNtRmWVkXRQQxTdXGyxDonzbh6xjZLRFDl",
+        "pfbid0EhW7kwA5xRNvHTbJLagNMVzzHaYMdGuEAsWJtSD9dZqZ6SRF83DkUDPGsASPBPAol",
+        "pfbid0LR4hxEXrVBJrAWKBQV1aivijSrUBSiRjSVATfa1hXh5z9nTUTnw7D9pRXiZLwymgl"
       ]
     },
     "bhalukarkhobor": {
@@ -427,7 +427,6 @@
       "initialized": true,
       "last_checked": null,
       "seen": [
-        "pfbid0fzd8XLkcZRNXh1ZH3M3xLsBQRpWMTfBCzTJWsvpzce2s53rzDvfWtuFmPfVmScLCl",
         "pfbid02FWfyq2nkU8i1QXs9Byz3CHc5gYpuBFkxPzXV3c4FPnpMDxzKVDS4JFwcXityCB46l",
         "pfbid02kc5VYTCWhzk5985U7k6mXrqo8DFYyffbCEZdarXGiAzLaPxCRYX4LYtPZt9STVHEl",
         "pfbid05C6PafdHLxLCPfzURLd8HcuSX45LzmFE5tMzM5hHSNcNJxGhKYCe6jcaTBJH7f6sl",
@@ -726,7 +725,8 @@
         "pfbid0C8eeRw6NRmQVjkoydkt6ZoZ9rZCZFnKP3gnK4HGSg1bMXLMsADk5nb5djm8J5Rexl",
         "pfbid027Gn3wdDtsason2VT1X2grBX3mRM2YVVjWuHoXp3mox9AnqK3SLXwRxP5EqstjpHKl",
         "pfbid02GkegN4K9DYe7jwGLHhy6SzQsjY5SxhvbMpdx4Dzp3e1QjwUS1Gj9aaVrRCoyfbQul",
-        "1405003105039918"
+        "1405003105039918",
+        "1191258910513544"
       ]
     }
   },
