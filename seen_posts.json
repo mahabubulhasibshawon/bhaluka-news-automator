@@ -72,7 +72,6 @@
       "initialized": true,
       "last_checked": null,
       "seen": [
-        "pfbid0h5dqE7352xmZw6r9nAzM9v6QhVeqHeccPXdtsCYzhR4jgqH3hHRprh8h5eSTGFkWl",
         "pfbid02Kcrh7e2cCu6ihPtoM7nCEVX79UYHbCAtFioKcYTNHUNom7NzTBdCvK6kE65MDAJel",
         "pfbid02kqWUTCqHhPhEFi6NMBsDNHo68w8E4n87vDanF5KiRs6WxWXyxNSQDZuW6hWYBQfjl",
         "pfbid06ziPhQpmghSokCava4zLyLXb2yrnXbGK5uF8xqNWvtEH6JKfQQ4L7TSSFrzkZMTBl",
@@ -371,7 +370,8 @@
         "1732957014986917",
         "pfbid02biWKTbXcW8vPj8tE2Ki5uwYzFvbBdRKTnwSZZwNJFNuT5vFV4FeT7hJxkkJ5P2jDl",
         "pfbid02wzGAjX1FLJDgZsJMQaQiFZm3zj7MuYWyiBJPXJHia5iQeLf6EUtWwNsC5KfktEr6l",
-        "pfbid02pyEf2B7DJAEKB5fnx4Y2ZxFcW7aPokX3mRdYTTg1Mf4DA4UqCW2fdnbZZHqupjnSl"
+        "pfbid02pyEf2B7DJAEKB5fnx4Y2ZxFcW7aPokX3mRdYTTg1Mf4DA4UqCW2fdnbZZHqupjnSl",
+        "pfbid02zA59izTcp79p86bpJp6RbYRg38XEcSDQunAZgvtSDL3JweSvJKn3YbiwVYnqH7hbl"
       ]
     },
     "bhalukarkhobor": {
@@ -434,9 +434,6 @@
       "initialized": true,
       "last_checked": null,
       "seen": [
-        "pfbid021WhNyuFhZSwvU5BtujFz2BkWT26AKdv7PxdPU5JCrifkBC81mZ2LTDBWMvn3GvGel",
-        "pfbid0SqFF2Q5GmzFBDVnCF139HTgr4G2hjVgpoyrbWgcDkpXR94iBx8XvvFzNVxaj6RZCl",
-        "pfbid0bVwW5H7t4YrXYycv3tDqPwtBFKd5Lw4hAaYuECQ8ZsTMfFisqYh9HdqbVHkpuAqRl",
         "pfbid02UFNVRajdUgLvGC9eHqyeqGBirSs7TYe2MLTMtMKitUX8jq3cZXcxf9jWazqMxJ2Ql",
         "pfbid02mRuwWvh6rFj2fJtDnWZQct2UkVMcYd47E7YqRNUUnePsas94CGZvA39FLPJeB9K6l",
         "pfbid0246KDRZEwRgHomfSFyvCpHGgtq9Sqw85R8b7W9pTCJxJ2rHXk2MTXM3qEogB2Bwfql",
@@ -733,7 +730,10 @@
         "1132272496230529",
         "pfbid02fKyHgK7M7mup3wG3jH8SA9y59GUAA9ULizr6dsETka3kdtyXNLzMhMW1RihZxV1bl",
         "1196202846141241",
-        "pfbid0255z5wZcesp8maCoMcydsPG4vKrWG6oeGC24hDTetXumdeqCqXsuwWDQbNasrkAbKl"
+        "pfbid0255z5wZcesp8maCoMcydsPG4vKrWG6oeGC24hDTetXumdeqCqXsuwWDQbNasrkAbKl",
+        "pfbid0er88XrYypCcprg2f2t4sz7zbZo9HU8H9Dv34TUEz6tzNHhmBRgDjcxTQKuqkJxwLl",
+        "pfbid0mWcpH6ZPKHps1rXjn1HmSiYARFjVsrCiNHo5t5xB71Ys1EV3McHNMLUwhKySE7Aul",
+        "pfbid0k6vqwW1xtv2Rzd5GaoEvQq5hGV8rJCUGnLcnvF1Lpiov8vkLu69kPWQBbbuUeHcal"
       ]
     }
   },
