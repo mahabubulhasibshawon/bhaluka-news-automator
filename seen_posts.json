@@ -72,8 +72,6 @@
       "initialized": true,
       "last_checked": null,
       "seen": [
-        "pfbid0qT5KECUPUb1aQmfPwkFgh2zi9h9qo3nN7ENkwku83E2YbC6hp9F2jWKEZRxVjmGUl",
-        "pfbid0MumUtk5bJPqu4SwD1kGiNiycJRdDrnYDZH73VgshQBAh3aCS1AHHrpe32rizMCkBl",
         "pfbid0AyNCBSpnQLRn48FZC2T7GjzZL1MbYF4cZ4nK733sqPznnUaTvadWHQEFBXe63q6El",
         "pfbid035kdjYSYHwUqgkSdm8w82cRCuQ6tw4bp7bjKGhztxP37ZHXXW6fg23g18HfrY3RKUl",
         "pfbid0AKUFnMa66hfCfnQgTUd9jygkaFqUsiJAZrHoMQNfADkS3eNkEAM2PAhgUfS7VFhnl",
@@ -371,7 +369,9 @@
         "pfbid023txuSiGBz9WhEwzb5XypRGH1P497vDwxr6BUXKsMLMfk1kJkXpfn4J11rqfFYbuUl",
         "pfbid02n3Qzm2Vfgfd4S21mqux8gsZ5SssBBJXa1d7gLcwDkEALjDYPCe7hUS5Vdx1p9s4Fl",
         "pfbid02fYK3wDPt2NLiEJdCqWgDYbCMfVwtbBMRjQfFNpNJt68DqAQZuAZ9nKNWJrzNvKtKl",
-        "2124706738416814"
+        "2124706738416814",
+        "1010832578729692",
+        "pfbid03xF1qaJTK1ccJxvzGa9GcTQpN31ztewDY7rktFUH6PnK9zUsXHgGKqcGzf1azZfjl"
       ]
     },
     "bhalukarkhobor": {
@@ -435,7 +435,6 @@
       "initialized": true,
       "last_checked": null,
       "seen": [
-        "pfbid0Q95P3pSf3dfRBxoXCJG46sug9YSevKwafRfgFARbTkD7xDH4SmxQz9oYkwroANwRl",
         "2244037363660093",
         "1798352901419298",
         "pfbid02PDta9tzFVrJGTDfLiXRANUHv2BiFmfuQMoiFpip58mSMuqyo5qH8k3Nk1RcobHPal",
@@ -734,7 +733,8 @@
         "1498702055513379",
         "pfbid0TBZr4KyAZf7DmUsFVS93hhB3WFBSGMDgfAQEvz9Qf7PTfWiu1dpPXfd32xrFNjqal",
         "pfbid0Ltv2KBQYnKYYC3bo2SgkEMaTBdvxK1FochhM1dePMH34zaaTv3of9sHbRKNznVcGl",
-        "pfbid0NRvPJMWsQFLoC2Zo1N3ysHn5VESpWiwy1T2neyM2SbUeao4MsyoKwJ6RHbuNCQtYl"
+        "pfbid0NRvPJMWsQFLoC2Zo1N3ysHn5VESpWiwy1T2neyM2SbUeao4MsyoKwJ6RHbuNCQtYl",
+        "pfbid07jkhqNpbHzGdtjc6J5Xkg9hXmSxPVgrtvhcqYCoCz8HwtaYk8U5pkj9q8nrjP8Grl"
       ]
     }
   },
