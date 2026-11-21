@@ -50,7 +50,8 @@
         "pfbid0MYUtFdcraYiYQFQooqt5NMxTZAQp5YokUmt3ngzeRGpJMRWTCakNVFE83Dm6yptMl",
         "pfbid02RPvbSJYgRz73KosM2htiZw47Ut4XM1bJRBLhTx4xMEow4kTGyEKqiqdsbhtjiVtrl",
         "pfbid0MNKsxVM7kz59kYJMahknfhKzwhzSbbDgTskoESBuXouRAQpKkPjS5C96EZdm62Xil",
-        "pfbid0M5BPRSDQAheguKQJ6JY9X2AqvN949hGhi7kdkaLhkLMH8bquSJuhvqnkXxNmVnxYl"
+        "pfbid0M5BPRSDQAheguKQJ6JY9X2AqvN949hGhi7kdkaLhkLMH8bquSJuhvqnkXxNmVnxYl",
+        "pfbid02RDfFmHNvtPVACAZmLJdpqDSzAc8w5hFpgGd3xs5j7oYihiSkeWNezWPNWibdWJCNl"
       ]
     },
     "bbcnews": {
@@ -72,7 +73,6 @@
       "initialized": true,
       "last_checked": null,
       "seen": [
-        "pfbid035kdjYSYHwUqgkSdm8w82cRCuQ6tw4bp7bjKGhztxP37ZHXXW6fg23g18HfrY3RKUl",
         "pfbid0AKUFnMa66hfCfnQgTUd9jygkaFqUsiJAZrHoMQNfADkS3eNkEAM2PAhgUfS7VFhnl",
         "1665913698353414",
         "pfbid0CYZEpg2bbNzmzAijTbKbPXd8Dj5oTXw3Vj6md9fyNQtX1NLTDdG6MgBsafRFKggUl",
@@ -371,7 +371,8 @@
         "2124706738416814",
         "1010832578729692",
         "pfbid03xF1qaJTK1ccJxvzGa9GcTQpN31ztewDY7rktFUH6PnK9zUsXHgGKqcGzf1azZfjl",
-        "pfbid02mNY3vSJmE1TdSbut6dbgXGtQ3vEccaAQCsw9HoNHBzXQLHPcQ8z6KG6SQPBtfHMMl"
+        "pfbid02mNY3vSJmE1TdSbut6dbgXGtQ3vEccaAQCsw9HoNHBzXQLHPcQ8z6KG6SQPBtfHMMl",
+        "pfbid02HgAUoqQuo2qfUUXjr6BS4nF6LFD4pq5gfAfj7UTWheyPT8xFVGEcvJxtqQvVmj1Dl"
       ]
     },
     "bhalukarkhobor": {
@@ -437,7 +438,6 @@
       "initialized": true,
       "last_checked": null,
       "seen": [
-        "pfbid02Vi1WXtJ4ojWcbTxczfrNzdpVSTsPVhSucxTwq391NELRE5veUA32Hv8Dt9VfPzUBl",
         "pfbid02iDvr3221gKbv9GVtbSYfi9oSbkPPrgapNu8fTi5Ftt97W5rrkmjPjdoBAaMJvkNjl",
         "pfbid026LiFvn2wjtV2aNKGBsERDLqgSShQCjBahWSK9yGjvvbM2rfDkUGeoHYtPErz4gFMl",
         "pfbid02uB6URjZF5MXH7XwpkfQejXGmwffQN9imFCBHcVsuS4cm8w3fZ44kiTF6AnE42SuCl",
@@ -736,7 +736,8 @@
         "pfbid02QPpt6WoeGAuXpmXFyLQqwmPPBJ1yip6cYhQdy2SwnmVnVziGwov6F6Yk2RLvcTbhl",
         "pfbid0UUA7xJx6gaSHNQ3Wx8CvHzBpsYV9JtmsbcGqy13LZbB9QNXGh7qhU8cXxSsKMyqkl",
         "2363062614523335",
-        "pfbid0fcnqYJjfZSxomarASBitaB8MJpvY4RLw9oaqar7jx9ew9nYUS8j1Ai3fkCskXj2Wl"
+        "pfbid0fcnqYJjfZSxomarASBitaB8MJpvY4RLw9oaqar7jx9ew9nYUS8j1Ai3fkCskXj2Wl",
+        "1490193016399418"
       ]
     }
   },
