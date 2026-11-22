@@ -76,7 +76,6 @@
       "initialized": true,
       "last_checked": null,
       "seen": [
-        "pfbid034CRkDWQenNcgfQuCFuRxs7r7DjEpBYUmWc5cWrarPZWKdR9GMaMbYXz6YPEakc58l",
         "pfbid02GAttwVffic49ssBXZYxNgiXnKDNjoZcgYaHn3nMvfTrGC8xUUgDaRExokftXUq15l",
         "pfbid0q2cWMGh5CZPBaYX6c6Y6uatE7NkUzPkV5FytgNgBPBZE2Vju9gYWdy6LGYMqNHQsl",
         "pfbid0fQz9kT1pwgCDxFoVsaznT2J4HidfjN1cbY1iZG6vVZ2xk6cKRAK2G16KPnUURv25l",
@@ -375,7 +374,8 @@
         "pfbid03RfVXJFm3eBxc7bXybxdZgBqCF6LncqNebJQuSq6yVzCqq3cRBJQ55ExcjoCW8ASl",
         "pfbid034qZzFcsJcx1EmZNj2P8comis4LDXAsEMxeqoTUDJeKwS5dJZZ7Z9CDikhZNKdhuAl",
         "pfbid024673NBPAZWAePu68Cfhyzs6K3wttzfE9bWokYCuk2sWv1WdYkYvMxuCfmP5qm6rjl",
-        "pfbid02HmWvsoAw1RChqFVgD7rJdAzJg3kQw6wRxQqQSE6a6iiMYRqRrjvwvwjY9wFLoTDnl"
+        "pfbid02HmWvsoAw1RChqFVgD7rJdAzJg3kQw6wRxQqQSE6a6iiMYRqRrjvwvwjY9wFLoTDnl",
+        "pfbid02XcYBCn6fUFtUGbWcn3wSwg2TUEKgPT78H56sUiP3bNercNsBMTcnAWSN8Wnqq9azl"
       ]
     },
     "bhalukarkhobor": {
@@ -418,7 +418,8 @@
         "pfbid08UM4ZyfZQDQfHKazbRkZJfsBBYBhgPksvRuTo5j61hftN1qBYefQbvCcz5kEgYuwl",
         "pfbid02JxeRKce4z51syPNikNnwX1zfUJRp7FoaGYnxLrUDwE5LpDbkJAgDnFhiTDRtSTNxl",
         "pfbid0xn8cRRPcim2vutQjrzgnW8yp8YzDcpQw4LXeExYtkRcPiamopqpukMehsUoSysTGl",
-        "pfbid0329co3SkEkQtHNGR4obi65VUJVNydrUS6iJMYsZMCnPrCtj37AgFHXyqtHgejVE4al"
+        "pfbid0329co3SkEkQtHNGR4obi65VUJVNydrUS6iJMYsZMCnPrCtj37AgFHXyqtHgejVE4al",
+        "pfbid0orhHZejdnYsmUJVF5T5hweVySF7wq8Cu3aptu28YDA2Ven2SFXE6AFW7H6FMXua4l"
       ]
     },
     "cnn": {
@@ -443,7 +444,6 @@
       "initialized": true,
       "last_checked": null,
       "seen": [
-        "1196792206606655",
         "1131177179282583",
         "pfbid02KMuFmAatmmzY7PChVLo3MXtKAsLYhzfQp73Gxa3ADcCKCZhCqJfWUAMRtR6gNeEAl",
         "pfbid022SKb7b2Yb2DLW5powj61fZndP6JdN6gaNppV6AUmMwCTuzKyxE9bSapZP8sKNXzil",
@@ -742,7 +742,8 @@
         "pfbid02UskJ3LMTTgHuYoE3VyfWvEi7osbbRtboAGJUKTxuCrAF3yb8jYH33bs3XPoUMWaVl",
         "pfbid065efqpntD1nDF7HDKAvWbAEaqqtCzq4waTY3PdiJJoPPKz7N7RyLzf2vqrQFQHGkl",
         "2673695509725464",
-        "pfbid0TyDawqavWCnvMYVXc6ovSfe9NoXGSTr6vqBcxZ4JG8ByUTRqDxAYLwMRGCMtYF4nl"
+        "pfbid0TyDawqavWCnvMYVXc6ovSfe9NoXGSTr6vqBcxZ4JG8ByUTRqDxAYLwMRGCMtYF4nl",
+        "pfbid028UthT1BNSxBLqJACDubKRbX59wGZGgpskrHqB2vaonutbUZvKqofWJyZHGu3ePESl"
       ]
     }
   },
